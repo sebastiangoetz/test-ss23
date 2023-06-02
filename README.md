@@ -8,8 +8,6 @@ Der erste wichtige Susatz
 
 Der zweite wichtige Satz
 
-Huh
-
 Okay klappt es jetzt?
 
 hallo Leute 
