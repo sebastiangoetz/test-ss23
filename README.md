@@ -19,14 +19,20 @@ Ein neues Problem!
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-Danke Herr Götz
+Danke Herr GÃ¶tz
 heute ist bisschen schwer  
 
-Danke Herr GÃ¶tz!
+Danke Herr GÃƒÂ¶tz!
 
 
-Danke Herr GÃ¶tz!
+Danke Herr GÃƒÂ¶tz!
+
+Mhhhh
+
+Dankeschön!
+Wir sind die Cantina Band, wenn ihr Song wünsche habt ruft Sie einfach!
+Spielt den selben Song nochmal!
+Alles klar den selben Song.
+Und los!
 
 Test 2 #5
-ich versuche immer macht Spaß
-
