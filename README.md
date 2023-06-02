@@ -19,6 +19,9 @@ Das passt jetzt so
 
 Ein neues Problem!
 
-Danke Herr Götz
+<<<<<<< HEAD
+Danke Herr G�tz
 heute ist bisschen schwer  
+
 Danke Herr Götz!
+
