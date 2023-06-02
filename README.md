@@ -17,14 +17,28 @@ Das passt jetzt so
 
 Ein neues Problem!
 
-Danke Herr Götz!
+<<<<<<< HEAD
+<<<<<<< HEAD
+Danke Herr Götz
+heute ist bisschen schwer  
+
+Danke Herr GÃ¶tz!
+
+
+Danke Herr GÃ¶tz!
 
 Mhhhh
 
-Dankeschön!
-Wir sind die Cantina Band, wenn ihr Song wünsche habt ruft Sie einfach!
+Dankesch�n!
+Wir sind die Cantina Band, wenn ihr Song w�nsche habt ruft Sie einfach!
 Spielt den selben Song nochmal!
 Alles klar den selben Song.
 Und los!
 
 Test 2 #5
+
+
+hallo max 
+Test 2 #5
+
+I am not superstitious but I am a little sticious.
