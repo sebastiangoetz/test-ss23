@@ -4,10 +4,8 @@ Tolle Beschreibung
 
 Viele bessere Beschreibung gibt es garnicht.
 
-Der erste wichtige Satz
+Der erste wichtige Susatz
 
 Der zweite wichtige Satz
 
 Huh
-
-Echt jetzt?
